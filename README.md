@@ -1,4 +1,4 @@
-# Manga-Text-Segmentation
+<!-- # Manga-Text-Segmentation
 Official repo of our paper [Unconstrained Text Detection in Manga: a NewDataset and Baseline](https://link.springer.com/chapter/10.1007%2F978-3-030-67070-2_38).
 
 ## Example
@@ -50,4 +50,4 @@ isbn="978-3-030-67070-2"
   doi          = {10.5281/zenodo.4511796},
   url          = {https://doi.org/10.5281/zenodo.4511796}
 }
-````
+```` -->
